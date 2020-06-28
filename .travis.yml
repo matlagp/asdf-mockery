@@ -1,5 +1,5 @@
 language: c
-script: asdf plugin-test mockery https://github.com/tolbier/asdf-mockery.git
+script: asdf plugin-test mockery https://github.com/cabify/asdf-mockery.git
 before_script:
   - git clone https://github.com/asdf-vm/asdf.git
   - source asdf/asdf.sh
